@@ -1,0 +1,4 @@
+demo/*.png
+demo/*.puml
+demo/main
+demo/plantuml.jar
